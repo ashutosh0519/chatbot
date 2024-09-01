@@ -36,7 +36,7 @@
         </div>
     </div>
 
-    <script src="cript.js"></script> <!-- Ensure this points to the correct JS file -->
+    <script src="cript.js"></script>
 </body>
 </html>
 
